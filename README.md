@@ -1,6 +1,5 @@
 #  Mean and variance of a discrete  distribution
 
-
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -55,4 +54,3 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
